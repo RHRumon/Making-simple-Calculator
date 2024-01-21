@@ -5,13 +5,13 @@ function appendtodisplay(input){
 }
 
 function calculate(){
-    /*try{
+    try{
         answer.value = eval(answer.value);
     }
     catch(error){
         answer.value = "Error";
-    } */
-    answer.value = eval(answer.value);
+    }
+   // answer.value = eval(answer.value);
    
 }
 
